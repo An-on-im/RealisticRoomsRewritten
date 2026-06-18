@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RealisticRoomsSettingsCategoryLabel>Realistic Rooms</RealisticRoomsSettingsCategoryLabel>
+  <SettingsLabelTip>Lower tiers must be either equal or less than higher tiers. Ending in .5 is recommended due to how the game rounds</SettingsLabelTip>
+  <SettingsRTLabel>Minimum size for Rather Tight</SettingsRTLabel>
+  <SettingsASLabel>Minimum size for Average Sized</SettingsASLabel>
+  <SettingsSSLabel>Minimum size for Somewhat Spacious</SettingsSSLabel>
+  <SettingsQSLabel>Minimum size for Quite Spacious</SettingsQSLabel>
+  <SettingsVSLabel>Minimum size for Very Spacious</SettingsVSLabel>
+  <SettingsESLabel>Minimum size for Extremely Spacious</SettingsESLabel>
+  <SettingsResetButton>Reset to Defaults</SettingsResetButton>
+  <SettingsExtraTweaksLabel>Extra Tweaks</SettingsExtraTweaksLabel>
+  <SettingsFilthLabel>Enable Dirt and Sand filth to be -4 Beauty indoors instead of -12</SettingsFilthLabel>
+</LanguageData>

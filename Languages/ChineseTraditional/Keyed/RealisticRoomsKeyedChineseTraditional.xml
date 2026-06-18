@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RealisticRoomsSettingsCategoryLabel>Realistic Rooms</RealisticRoomsSettingsCategoryLabel>
+  <SettingsLabelTip>調整每個房間大小類別的最小空間閾值。更改會立即生效。</SettingsLabelTip>
+  <SettingsFilthLabel>修改污垢美觀懲罰（減少污垢和沙子的醜陋程度）</SettingsFilthLabel>
+  <SettingsResetButton>重置為默認值</SettingsResetButton>
+</LanguageData>

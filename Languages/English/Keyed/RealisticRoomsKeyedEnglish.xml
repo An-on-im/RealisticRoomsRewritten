@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RealisticRoomsSettingsCategoryLabel>Realistic Rooms</RealisticRoomsSettingsCategoryLabel>
+  <SettingsLabelTip>Adjust the minimum space thresholds for each room size category. Changes take effect immediately.</SettingsLabelTip>
+  <SettingsFilthLabel>Modify filth beauty penalty (reduces ugliness from dirt and sand)</SettingsFilthLabel>
+  <SettingsResetButton>Reset to Defaults</SettingsResetButton>
+</LanguageData>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/ThingDef[defName="Filth_Dirt"]/statBases</xpath>
+		<match Class="PatchOperationConditional">
+			<xpath>Defs/ThingDef[defName="Filth_Dirt"]/statBases/Beauty</xpath>
+			<match Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="Filth_Dirt"]/statBases/Beauty</xpath>
+				<value>
+					<Beauty>-4</Beauty>
+				</value>
+			</match>
+			<nomatch Class="PatchOperationAdd">
+				<xpath>/Defs/ThingDef[defName="Filth_Dirt"]/statBases</xpath>
+				<value>
+					<Beauty>-4</Beauty>
+				</value>
+			</nomatch>
+		</match>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>/Defs/ThingDef[defName="Filth_Dirt"]</xpath>
+			<value>
+				<statBases>
+					<Beauty>-4</Beauty>
+				</statBases>
+			</value>
+		</nomatch>
+	</Operation>
+
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/ThingDef[defName="Filth_Sand"]/statBases</xpath>
+		<match Class="PatchOperationConditional">
+			<xpath>Defs/ThingDef[defName="Filth_Sand"]/statBases/Beauty</xpath>
+			<match Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="Filth_Sand"]/statBases/Beauty</xpath>
+				<value>
+					<Beauty>-4</Beauty>
+				</value>
+			</match>
+			<nomatch Class="PatchOperationAdd">
+				<xpath>/Defs/ThingDef[defName="Filth_Sand"]/statBases</xpath>
+				<value>
+					<Beauty>-4</Beauty>
+				</value>
+			</nomatch>
+		</match>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>/Defs/ThingDef[defName="Filth_Sand"]</xpath>
+			<value>
+				<statBases>
+					<Beauty>-4</Beauty>
+				</statBases>
+			</value>
+		</nomatch>
+	</Operation>
+  
+</Patch>

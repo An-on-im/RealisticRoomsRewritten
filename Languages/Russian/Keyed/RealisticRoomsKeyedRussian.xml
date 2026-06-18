@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RealisticRoomsSettingsCategoryLabel>Realistic Rooms</RealisticRoomsSettingsCategoryLabel>
+  <SettingsLabelTip>Настройте минимальные пороги пространства для каждой категории размера комнаты. Изменения вступают в силу немедленно.</SettingsLabelTip>
+  <SettingsFilthLabel>Изменить штраф красоты от грязи (уменьшает уродство от грязи и песка)</SettingsFilthLabel>
+  <SettingsResetButton>Сбросить настройки</SettingsResetButton>
+</LanguageData>

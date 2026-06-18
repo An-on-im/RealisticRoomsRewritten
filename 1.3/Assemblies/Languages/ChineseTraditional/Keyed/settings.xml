@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translated by NB -->
+<LanguageData>
+  <RealisticRoomsSettingsCategoryLabel>Realistic Rooms</RealisticRoomsSettingsCategoryLabel>
+  <SettingsLabelTip>較低的等級必須等於或小於較高的等級。建議以 .5 結尾，這是因為遊戲會對數值四捨五入。</SettingsLabelTip>
+  <SettingsRTLabel>"寸步難行"的最小空間</SettingsRTLabel>
+  <SettingsASLabel>"普通"的最小空間</SettingsASLabel>
+  <SettingsSSLabel>"有些寬敞"的最小空間</SettingsSSLabel>
+  <SettingsQSLabel>"很寬敞"的最小空間</SettingsQSLabel>
+  <SettingsVSLabel>"非常寬敞"的最小空間</SettingsVSLabel>
+  <SettingsESLabel>"無邊無際"的最小空間</SettingsESLabel>
+  <SettingsResetButton>重置回預設</SettingsResetButton>
+</LanguageData>
